@@ -1,0 +1,20 @@
+[{
+    "id":1,
+    "nombre":"Aritz",
+    "apellido":"Aduriz"    
+},
+{
+    "id":2,
+    "nombre":"Iker",
+    "apellido":"Zarate"    
+},
+{
+    "id":3,
+    "nombre":"Iker",
+    "apellido":"Arana" 
+},
+{
+    "id":4,
+    "nombre":"Javi",
+    "apellido":"Casas" 
+}]
